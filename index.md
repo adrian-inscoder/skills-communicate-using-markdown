@@ -7,7 +7,11 @@
 ```
 javascript
 let variable = "Hello Adrian!";
-
 ```
+
+# My Task List
+- [x] Complete Shopify Training
+- [x] Complete Github Training
+- [ ] Become the best Shopify Dev in the world
 
 Testing markdown syntax.
